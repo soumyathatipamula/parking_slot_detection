@@ -17,7 +17,7 @@ This project aims to detect parking slots and identify empty parking spots using
     ```
 2. Navigate to the project directory:
     ```bash
-    cd parking-slot-detection
+    cd parking_slot_detection
     ```
 3. Install the required dependencies:
     ```bash
