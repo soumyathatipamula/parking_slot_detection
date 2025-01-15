@@ -48,8 +48,11 @@ python emptyparkingspotdetection.py
 
 ## Project Structure
 `ImageProcessing.py`: Script for detecting and drawing bounding boxes around cars.
+
 `parkingspotcoordinate.py`: Script for marking parking spot coordinates manually.
+
 `emptyparkingspotdetectionmodel.py`: Script for training the CNN model.
+
 `emptyparkingspotdetection.py`: Script for detecting empty parking spots using the trained model.
 
 ## Features
